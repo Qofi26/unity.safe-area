@@ -1,0 +1,11 @@
+{
+  "name": "com.erem.safe-area",
+  "version": "0.1.0",
+  "displayName": "SafeAreaController",
+  "description": "This is simple safe area controller implementation for Unity mobile application",
+  "documentationUrl": "https://github.com/Qofi26/unity.safe-area",
+  "keywords": [
+    "safe area",
+    "mvvm"
+  ]
+}
